@@ -40,5 +40,3 @@ To run this game, you need Node.js installed on your computer. If you haven't al
 4. Run It
    ```bash
    node index.js
-
-
