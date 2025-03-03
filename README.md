@@ -29,10 +29,16 @@ To run this game, you need Node.js installed on your computer. If you haven't al
    ```bash
    git clone https://github.com/your-username/slot-machine-game.git
 
-1. Clone this repository to your local machine.
+2. Navigate to the project directory.
    ```bash
-   git clone https://github.com/your-username/slot-machine-game.git
+   cd slot-machine-game
 
-1. Clone this repository to your local machine.
+3. Install dependencies
    ```bash
-   git clone https://github.com/your-username/slot-machine-game.git
+   npm install prompt-sync
+
+4. Run It
+   ```bash
+   node index.js
+
+
